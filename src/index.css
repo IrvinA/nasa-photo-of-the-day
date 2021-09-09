@@ -9,7 +9,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-h1 {
+/* h1 {
   margin: 1% 5%;
   font-size: 4rem;
   font-weight: 700;
@@ -39,7 +39,7 @@ button {
 button:hover {
   color: blue;
   background-color: black;
-}
+} */
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
